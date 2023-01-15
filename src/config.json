@@ -1,0 +1,11 @@
+{
+  "api": {
+    "amazonaws": {
+      "baseUrl": "https://9g7qfsq0qk.execute-api.us-east-1.amazonaws.com/v1/session",
+      "routes": {
+        "locates": "/locates",
+        "broker": "/broker"
+      }
+    }
+  }
+}
